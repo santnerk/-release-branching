@@ -1,4 +1,4 @@
 # -release-branching
 
 ## Introduction
-## Scop
+## Scope
